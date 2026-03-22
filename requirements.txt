@@ -1,0 +1,12 @@
+# Requirements for JARVIS project
+
+speechrecognition
+pyttsx3
+Tkinter
+django
+nltk
+requests
+flask
+pytesseract
+numpy
+pandas
